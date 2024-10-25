@@ -1,0 +1,18 @@
+{
+  "name": "mongoose-project",
+  "version": "1.0.0",
+  "description": "CRUD OPERATION IN DATABASE BY USING EXPRESS JS AND MONGOOSE ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KARTHIKEYAN R",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "express-handlebars": "^7.1.3",
+    "mongoose": "^8.5.1",
+    "nodemon": "^3.1.4"
+  }
+}
